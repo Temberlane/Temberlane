@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Temberlane
 - 👀 I’m interested in computers!
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing. I'm antisocial, please leave me alone.
+- 💞️ I’m looking to collaborate on anything related to computers!
 - 📫 How to reach me, email.
 
 <!---
