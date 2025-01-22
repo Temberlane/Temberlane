@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Temberlane
-- 👀 I’m interested in computers!
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything related to computers!
-- 📫 How to reach me, email.
+Hey guys ! I am currently a Software Engineering Student at Ottawa. 
+Feel free to reach me at tli060@uottawa.ca if you're interested in my projects or collaborating!
 
 <!---
 Temberlane/Temberlane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
